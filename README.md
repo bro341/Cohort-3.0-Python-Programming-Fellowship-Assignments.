@@ -9,5 +9,7 @@ Assignments Arewa Datascience Academy Repo
 
 # BOLD
 **BOLD TEXT TWO ASTERISKS**
+
 NOT BOLD
+
 _ITALIC TEXT_
